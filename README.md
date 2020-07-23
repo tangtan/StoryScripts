@@ -31,6 +31,6 @@ The story script is defined as an `XML` document that records story characters a
 
 ```
 
-## TODO
+## JSON
 
-We plan to provide a simplified `JSON` format to be compatible with the `XML` document. 
+We also provide a simplified `JSON` format which is compatible with the `XML` document (see [iStoryline.js](https://github.com/tangtan/iStoryline.js/wiki/Story-Script)).
